@@ -1,5 +1,5 @@
 # Blizzard
-Microkernel OS designed for home/server use
+Microkernel OS designed for home use
 
 ## About
 This OS is made by some Russian guys
